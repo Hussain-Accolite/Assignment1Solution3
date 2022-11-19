@@ -74,8 +74,6 @@ public class FishPond {
 		
 		for(int i=0;i<10;i++) {
 			fish.add("M");
-		}
-		for(int i=0;i<10;i++) {
 			fish.add("F");
 		}
 		
